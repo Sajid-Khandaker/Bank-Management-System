@@ -28,5 +28,5 @@ All operations (create, update, delete) are done using file handling in C.
 
 ---
 
-**Author:** Your Name  
+**Author:** Sajid-Khandaker
 **Language:** C
